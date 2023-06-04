@@ -1,0 +1,179 @@
+prompt;completion
+Technologies used?; The technologies used include ReactJS, Redux, Webpack, 
+Styled Components, Formik, Python, Flask, MongoDB, AWS S3, AWS Amplify, 
+AngularJS, AWS ECS, Private and Public Subnets, AWS ECR, AWS Code Build, 
+AWS Code Pipeline, Google Calendar API, Beautifulsoup, Google Oauth, 
+Python Selenium, Python Flask, Pymongo, NLTK, Boto3, Summarizer, Openai, 
+Sentence Transformers, and Sentry, Bert Extractive.
+Which technologies used to create this project?; The technologies used to 
+create this project are ReactJS, Redux, Webpack, Styled Components, 
+Formik, Python, Flask, MongoDB, AWS S3, AWS Amplify, AngularJS, AWS ECS, 
+Private & Public Subnets, AWS ECR, AWS Code Build, AWS Code Pipeline, 
+Google Calendar API, Beautifulsoup, google oauth, Python Selenium, Flask, 
+pymongo, nltk, boto3, summarizer, OpenAI, sentence transformers, sentry, 
+Bert extractive.
+How many Language use?;Python and ReactJS are used in this project.
+Which type of storage has used?;MongoDB is used for storage.
+Any bucket storage is using?;Yes, AWS S3 is used for bucket storage.
+Which bucket storage has used?;AWS S3 is the bucket storage used.
+Which database has been used?;MongoDB
+Is any horizontal database using?;No, there is no horizontal database used 
+in Rapid Trance.
+Which wsgi is using?;It looks like Flask is the WSGI being used.
+Frontend language?; The frontend language used in the Technical 
+Specification Document (TSD) for Rapid Trance is ReactJS, Redux, Webpack, 
+Styled Components, and Formik.
+Which type of frontend language use?; ReactJS, Redux, Webpack, Styled 
+Components, and Formik.
+Any specific reason to use react or node js?; No, there is no specific 
+reason to use React or Node.js. It depends on the specific needs of the 
+project.
+Why pychram;Pycharm is an Integrated Development Environment (IDE) used 
+for Python development. It provides code completion, code analysis, 
+refactoring and debugging tools to help developers write and debug code 
+efficiently.
+Is project Containerisation based ?;Yes, project Containerisation is based 
+on Docker and Kubernetes.
+which Containerisation?;Deployment Guidelines in the document mention 
+containerisation as one of the technologies used. The section is titled 
+"9. Deployment Guidelines" and it states "Git repositories are configured 
+with pipelines which create docker images and get deployed via K8 pods as 
+shown above."
+is using?;No, this section does not include information about using 
+something. It is about naming conventions for Github repositories, Git 
+branches, and Git commits.
+Vpc;VPC stands for Virtual Private Cloud and is a virtual, private network 
+in the cloud. It allows users to provision and use secure and isolated 
+cloud computing environments, and offers a range of features such as 
+security groups, network access control lists, and subnets.
+What is purpose of this project?;The purpose of this project is to allow 
+the user to explore and create NFT pages by clicking on relevant buttons 
+from the hero section and to get to know the platform and provide a better 
+introduction.
+Purpose;The purpose of this document is to provide a technical 
+specification of the Rapid Trance platform, including details on the 
+technology stack, assumptions and risks, repository and branch naming 
+conventions, pull request guidelines, quality process and methodologies, 
+deployment guidelines, architecture, user stories and functional 
+requirements, models, and cases in which the bot may not join or fail.
+Any risk in this project?;Yes, there are risks in this project which 
+include potential security vulnerabilities, potential issues with the 
+technology stack, and potential issues with the development process such 
+as pull request guidelines and quality process and methodologies.
+Description of rapid transcriber?;Rapid transcriber is a tool that is used 
+to capture transcripts of meetings, which includes the live captions, 
+silence duration, and statistical metrics. It uses the API end point 
+https://rapid-trance.rapidinnovation.tech/api/v1/meeting to create an 
+event after login. All the attachments of the event are saved in the 
+organiser's google drive and he is able to give access to a particular 
+person. After the meeting, the transcripts are stored in csv and json 
+format and stored in an amazon s3 bucket and the database respectively. 
+The tool also captures the attendance list of people who are joining the 
+meet and absent in the meet, and uses the transcript json and the 
+attendance list to create a statistical metric.
+Description of project?;Rapid Trance Version 1.0 is a technical 
+specification document outlining the technology stack, assumptions and 
+risks, repository naming convention, git branch naming convention, git 
+commit naming convention, pull request guidelines, quality process and 
+methodologies, security testing, QA deliverables, deployment guidelines, 
+architecture, user stories and functional requirements, and models for a 
+web application.
+Summary of project?;This project is a Technical Specification Document 
+(TSD) for Rapid Trance, Version 1.0. It outlines the document history, 
+technology stack, assumptions and risks, repository and branch naming 
+conventions, git commit naming conventions, pull request guidelines, 
+quality process and methodologies, deployment guidelines, architecture, 
+user stories and functional requirements, models, and cases the bot will 
+not join or fail.
+Importante note of rapid transcriber?;Rapid transcriber is an automated 
+transcription service that uses artificial intelligence and natural 
+language processing to quickly and accurately generate transcripts from 
+audio and video files. It supports multiple languages, including English, 
+Spanish, French, German, and Chinese. The transcripts are stored securely 
+in the cloud and can be easily accessed and shared.
+How to login?;Login with google account to get authorised from google.
+How many libraries has use?;There are 11 libraries mentioned in the 
+context: Beautifulsoup, Google Oauth, Python Selenium, Python Flask, 
+Pymongo, NLTK, Boto3, Summarizer, OpenAI, Sentence Transformers, and 
+Sentry, Bert Extractive.
+Give me list of libraries?;I don't know.
+Give me list of backend language and frontend?;The backend language is 
+Python and the frontend is ReactJS, Redux, Webpack, Styled Components and 
+Formik.
+List of SDKs;Beautifulsoup, google oauth, Python Selenium, Python Flask, 
+pymongo, nltk, boto3, summarizer, Openai, sentence transformers, sentry, 
+and Bert extractive.
+Tolal list of libraries;The total list of libraries includes 
+Beautifulsoup, google oauth, Python Selenium, Python Flask, MongoDB, AWS 
+S3, AWS Amplify, AngularJS, AWS ECS, Private and Public Subnets, AWS ECR, 
+AWS Code Build, AWS Code Pipeline, Google Calendar API, Formik, Nltk, 
+Boto3, Summarizer, Openai, Sentence Transformers, Sentry, Bert Extractive, 
+Paraphrase MiniLM L6 v2 (Sentence Transformer Model), and Paraphrase 
+MiniLM L6 v2 (SBertSummarizer Model).
+Estimate of this project;I don't know.
+Is bot joining 2 min before?;No, the bot will not join 2 min before the 
+meeting.
+Give me list of functionality?; The list of functionality provided by the 
+platform includes creating and selling NFTs, viewing collections and top 
+collectibles, and viewing trending content.
+How long before the bot will join the meet?; The bot will join the meet 
+after the meeting has been scheduled and the post API has been hit. The 
+bot will then use selenium python and beautiful soup python library to 
+fetch all transcripts from the meet.
+How long before bot will join?; This depends on the event being created 
+and the details being fetched from the database. Generally, the bot will 
+join shortly after the event has been created and the required details 
+have been fetched from the database.
+The major functionality; The major functionality described in the context 
+is the ability for users to explore and create NFT pages by clicking on 
+relevant buttons from the hero section.
+Is CI/CD used ?; Yes, CI/CD is used and it is configured with pipelines 
+which creates docker images and gets deployed via K8 pods.
+Which CI/CD used for this project?; AWS Code Build | AWS Code Pipeline.
+Is this project is live?; No, this project is not live yet. It was 
+published on September 09, 2022.
+What is url of rapid transcriber?; The URL for Rapid Transcriber is 
+https://rapid-trance.rapidinnovation.tech/api/v1/meeting.
+How to use it?; This feature allows the user to explore and create NFT 
+pages by clicking on relevant buttons from the hero section. The landing 
+page consists of content describing how the platform helps the user in 
+buying and selling NFTs. The landing page comprises seven sections: title 
+content, notable drops, top collection, trending, creating and selling 
+your NFTs, categories, and introductory video. The purpose of this feature 
+is to allow the user to get to know the platform and provide a better 
+introduction.
+Any Ml or AI model has used ?; Yes, there are several ML and AI models 
+used. These include a sentiment model, a questions model, a keybert model, 
+an action bert model, a sentence transformer model, an SBertSummarizer 
+model, and an emotions model.
+For which function AI are used ?; AI is used for sentiment analysis, 
+question extraction, keybert, action bert, and transcript fetching.
+For which function ML are used?; ML is used for sentiment analysis, 
+question extraction, key term extraction, action item extraction, summary 
+generation, emotion detection, sentence transformer model, and paraphrase 
+summarizer model.
+For which function AI or ML are used ?;AI and ML are used for sentiment 
+analysis, question extraction, key phrase extraction, action item 
+extraction, summarization, emotion detection, and sentence paraphrasing.
+History of documentation;The Document History section of the Technical 
+Specification Document (TSD) for Rapid Trance Version 1.0 outlines the 
+date, author, and summary of changes for each version of the document.
+What is bot ?; A bot is a software application that is programmed to 
+perform a specific task or set of tasks. Bots are used to automate a 
+variety of tasks, such as responding to customer inquiries, managing 
+customer service interactions, booking tickets, and more.
+How bot is joining the meet?; After the meeting is created, the Rapid 
+Innovation bot joins the meet with captions on and fetches all transcripts 
+(live captions) from the meet by using selenium python and also uses the 
+beautiful soup python library to get accurate captions from the meet. 
+After the meeting ends, the transcripts are saved to csv and json format. 
+The csv is stored in an Amazon S3 bucket and the json of transcripts is 
+saved in the database.
+what is behind process of bot to join meet?; After creating an event, the 
+Rapid Innovation bot uses a crontab to hit a post API and create a task in 
+a celery queue. The bot then joins the meeting with captions on and 
+fetches all transcripts from the meet using the Selenium Python library 
+and the Beautiful Soup Python library. After the meeting ends, the 
+transcripts are saved in a csv file and a json format. The csv is stored 
+in an Amazon S3 bucket and the json of transcripts is saved in the 
+database.

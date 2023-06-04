@@ -1,0 +1,178 @@
+{"prompt":"Technologies used?","completion":" The technologies used include ReactJS, Redux, Webpack, "}
+{"prompt":"Styled Components, Formik, Python, Flask, MongoDB, AWS S3, AWS Amplify, ","completion":null}
+{"prompt":"AngularJS, AWS ECS, Private and Public Subnets, AWS ECR, AWS Code Build, ","completion":null}
+{"prompt":"AWS Code Pipeline, Google Calendar API, Beautifulsoup, Google Oauth, ","completion":null}
+{"prompt":"Python Selenium, Python Flask, Pymongo, NLTK, Boto3, Summarizer, Openai, ","completion":null}
+{"prompt":"Sentence Transformers, and Sentry, Bert Extractive.","completion":null}
+{"prompt":"Which technologies used to create this project?","completion":" The technologies used to "}
+{"prompt":"create this project are ReactJS, Redux, Webpack, Styled Components, ","completion":null}
+{"prompt":"Formik, Python, Flask, MongoDB, AWS S3, AWS Amplify, AngularJS, AWS ECS, ","completion":null}
+{"prompt":"Private & Public Subnets, AWS ECR, AWS Code Build, AWS Code Pipeline, ","completion":null}
+{"prompt":"Google Calendar API, Beautifulsoup, google oauth, Python Selenium, Flask, ","completion":null}
+{"prompt":"pymongo, nltk, boto3, summarizer, OpenAI, sentence transformers, sentry, ","completion":null}
+{"prompt":"Bert extractive.","completion":null}
+{"prompt":"How many Language use?","completion":"Python and ReactJS are used in this project."}
+{"prompt":"Which type of storage has used?","completion":"MongoDB is used for storage."}
+{"prompt":"Any bucket storage is using?","completion":"Yes, AWS S3 is used for bucket storage."}
+{"prompt":"Which bucket storage has used?","completion":"AWS S3 is the bucket storage used."}
+{"prompt":"Which database has been used?","completion":"MongoDB"}
+{"prompt":"Is any horizontal database using?","completion":"No, there is no horizontal database used "}
+{"prompt":"in Rapid Trance.","completion":null}
+{"prompt":"Which wsgi is using?","completion":"It looks like Flask is the WSGI being used."}
+{"prompt":"Frontend language?","completion":" The frontend language used in the Technical "}
+{"prompt":"Specification Document (TSD) for Rapid Trance is ReactJS, Redux, Webpack, ","completion":null}
+{"prompt":"Styled Components, and Formik.","completion":null}
+{"prompt":"Which type of frontend language use?","completion":" ReactJS, Redux, Webpack, Styled "}
+{"prompt":"Components, and Formik.","completion":null}
+{"prompt":"Any specific reason to use react or node js?","completion":" No, there is no specific "}
+{"prompt":"reason to use React or Node.js. It depends on the specific needs of the ","completion":null}
+{"prompt":"project.","completion":null}
+{"prompt":"Why pychram","completion":"Pycharm is an Integrated Development Environment (IDE) used "}
+{"prompt":"for Python development. It provides code completion, code analysis, ","completion":null}
+{"prompt":"refactoring and debugging tools to help developers write and debug code ","completion":null}
+{"prompt":"efficiently.","completion":null}
+{"prompt":"Is project Containerisation based ?","completion":"Yes, project Containerisation is based "}
+{"prompt":"on Docker and Kubernetes.","completion":null}
+{"prompt":"which Containerisation?","completion":"Deployment Guidelines in the document mention "}
+{"prompt":"containerisation as one of the technologies used. The section is titled ","completion":null}
+{"prompt":"9. Deployment Guidelines and it states \"Git repositories are configured ","completion":null}
+{"prompt":"with pipelines which create docker images and get deployed via K8 pods as ","completion":null}
+{"prompt":"shown above.\"","completion":null}
+{"prompt":"is using?","completion":"No, this section does not include information about using "}
+{"prompt":"something. It is about naming conventions for Github repositories, Git ","completion":null}
+{"prompt":"branches, and Git commits.","completion":null}
+{"prompt":"Vpc","completion":"VPC stands for Virtual Private Cloud and is a virtual, private network "}
+{"prompt":"in the cloud. It allows users to provision and use secure and isolated ","completion":null}
+{"prompt":"cloud computing environments, and offers a range of features such as ","completion":null}
+{"prompt":"security groups, network access control lists, and subnets.","completion":null}
+{"prompt":"What is purpose of this project?","completion":"The purpose of this project is to allow "}
+{"prompt":"the user to explore and create NFT pages by clicking on relevant buttons ","completion":null}
+{"prompt":"from the hero section and to get to know the platform and provide a better ","completion":null}
+{"prompt":"introduction.","completion":null}
+{"prompt":"Purpose","completion":"The purpose of this document is to provide a technical "}
+{"prompt":"specification of the Rapid Trance platform, including details on the ","completion":null}
+{"prompt":"technology stack, assumptions and risks, repository and branch naming ","completion":null}
+{"prompt":"conventions, pull request guidelines, quality process and methodologies, ","completion":null}
+{"prompt":"deployment guidelines, architecture, user stories and functional ","completion":null}
+{"prompt":"requirements, models, and cases in which the bot may not join or fail.","completion":null}
+{"prompt":"Any risk in this project?","completion":"Yes, there are risks in this project which "}
+{"prompt":"include potential security vulnerabilities, potential issues with the ","completion":null}
+{"prompt":"technology stack, and potential issues with the development process such ","completion":null}
+{"prompt":"as pull request guidelines and quality process and methodologies.","completion":null}
+{"prompt":"Description of rapid transcriber?","completion":"Rapid transcriber is a tool that is used "}
+{"prompt":"to capture transcripts of meetings, which includes the live captions, ","completion":null}
+{"prompt":"silence duration, and statistical metrics. It uses the API end point ","completion":null}
+{"prompt":"https:\/\/rapid-trance.rapidinnovation.tech\/api\/v1\/meeting to create an ","completion":null}
+{"prompt":"event after login. All the attachments of the event are saved in the ","completion":null}
+{"prompt":"organiser's google drive and he is able to give access to a particular ","completion":null}
+{"prompt":"person. After the meeting, the transcripts are stored in csv and json ","completion":null}
+{"prompt":"format and stored in an amazon s3 bucket and the database respectively. ","completion":null}
+{"prompt":"The tool also captures the attendance list of people who are joining the ","completion":null}
+{"prompt":"meet and absent in the meet, and uses the transcript json and the ","completion":null}
+{"prompt":"attendance list to create a statistical metric.","completion":null}
+{"prompt":"Description of project?","completion":"Rapid Trance Version 1.0 is a technical "}
+{"prompt":"specification document outlining the technology stack, assumptions and ","completion":null}
+{"prompt":"risks, repository naming convention, git branch naming convention, git ","completion":null}
+{"prompt":"commit naming convention, pull request guidelines, quality process and ","completion":null}
+{"prompt":"methodologies, security testing, QA deliverables, deployment guidelines, ","completion":null}
+{"prompt":"architecture, user stories and functional requirements, and models for a ","completion":null}
+{"prompt":"web application.","completion":null}
+{"prompt":"Summary of project?","completion":"This project is a Technical Specification Document "}
+{"prompt":"(TSD) for Rapid Trance, Version 1.0. It outlines the document history, ","completion":null}
+{"prompt":"technology stack, assumptions and risks, repository and branch naming ","completion":null}
+{"prompt":"conventions, git commit naming conventions, pull request guidelines, ","completion":null}
+{"prompt":"quality process and methodologies, deployment guidelines, architecture, ","completion":null}
+{"prompt":"user stories and functional requirements, models, and cases the bot will ","completion":null}
+{"prompt":"not join or fail.","completion":null}
+{"prompt":"Importante note of rapid transcriber?","completion":"Rapid transcriber is an automated "}
+{"prompt":"transcription service that uses artificial intelligence and natural ","completion":null}
+{"prompt":"language processing to quickly and accurately generate transcripts from ","completion":null}
+{"prompt":"audio and video files. It supports multiple languages, including English, ","completion":null}
+{"prompt":"Spanish, French, German, and Chinese. The transcripts are stored securely ","completion":null}
+{"prompt":"in the cloud and can be easily accessed and shared.","completion":null}
+{"prompt":"How to login?","completion":"Login with google account to get authorised from google."}
+{"prompt":"How many libraries has use?","completion":"There are 11 libraries mentioned in the "}
+{"prompt":"context: Beautifulsoup, Google Oauth, Python Selenium, Python Flask, ","completion":null}
+{"prompt":"Pymongo, NLTK, Boto3, Summarizer, OpenAI, Sentence Transformers, and ","completion":null}
+{"prompt":"Sentry, Bert Extractive.","completion":null}
+{"prompt":"Give me list of libraries?","completion":"I don't know."}
+{"prompt":"Give me list of backend language and frontend?","completion":"The backend language is "}
+{"prompt":"Python and the frontend is ReactJS, Redux, Webpack, Styled Components and ","completion":null}
+{"prompt":"Formik.","completion":null}
+{"prompt":"List of SDKs","completion":"Beautifulsoup, google oauth, Python Selenium, Python Flask, "}
+{"prompt":"pymongo, nltk, boto3, summarizer, Openai, sentence transformers, sentry, ","completion":null}
+{"prompt":"and Bert extractive.","completion":null}
+{"prompt":"Tolal list of libraries","completion":"The total list of libraries includes "}
+{"prompt":"Beautifulsoup, google oauth, Python Selenium, Python Flask, MongoDB, AWS ","completion":null}
+{"prompt":"S3, AWS Amplify, AngularJS, AWS ECS, Private and Public Subnets, AWS ECR, ","completion":null}
+{"prompt":"AWS Code Build, AWS Code Pipeline, Google Calendar API, Formik, Nltk, ","completion":null}
+{"prompt":"Boto3, Summarizer, Openai, Sentence Transformers, Sentry, Bert Extractive, ","completion":null}
+{"prompt":"Paraphrase MiniLM L6 v2 (Sentence Transformer Model), and Paraphrase ","completion":null}
+{"prompt":"MiniLM L6 v2 (SBertSummarizer Model).","completion":null}
+{"prompt":"Estimate of this project","completion":"I don't know."}
+{"prompt":"Is bot joining 2 min before?","completion":"No, the bot will not join 2 min before the "}
+{"prompt":"meeting.","completion":null}
+{"prompt":"Give me list of functionality?","completion":" The list of functionality provided by the "}
+{"prompt":"platform includes creating and selling NFTs, viewing collections and top ","completion":null}
+{"prompt":"collectibles, and viewing trending content.","completion":null}
+{"prompt":"How long before the bot will join the meet?","completion":" The bot will join the meet "}
+{"prompt":"after the meeting has been scheduled and the post API has been hit. The ","completion":null}
+{"prompt":"bot will then use selenium python and beautiful soup python library to ","completion":null}
+{"prompt":"fetch all transcripts from the meet.","completion":null}
+{"prompt":"How long before bot will join?","completion":" This depends on the event being created "}
+{"prompt":"and the details being fetched from the database. Generally, the bot will ","completion":null}
+{"prompt":"join shortly after the event has been created and the required details ","completion":null}
+{"prompt":"have been fetched from the database.","completion":null}
+{"prompt":"The major functionality","completion":" The major functionality described in the context "}
+{"prompt":"is the ability for users to explore and create NFT pages by clicking on ","completion":null}
+{"prompt":"relevant buttons from the hero section.","completion":null}
+{"prompt":"Is CI\/CD used ?","completion":" Yes, CI\/CD is used and it is configured with pipelines "}
+{"prompt":"which creates docker images and gets deployed via K8 pods.","completion":null}
+{"prompt":"Which CI\/CD used for this project?","completion":" AWS Code Build | AWS Code Pipeline."}
+{"prompt":"Is this project is live?","completion":" No, this project is not live yet. It was "}
+{"prompt":"published on September 09, 2022.","completion":null}
+{"prompt":"What is url of rapid transcriber?","completion":" The URL for Rapid Transcriber is "}
+{"prompt":"https:\/\/rapid-trance.rapidinnovation.tech\/api\/v1\/meeting.","completion":null}
+{"prompt":"How to use it?","completion":" This feature allows the user to explore and create NFT "}
+{"prompt":"pages by clicking on relevant buttons from the hero section. The landing ","completion":null}
+{"prompt":"page consists of content describing how the platform helps the user in ","completion":null}
+{"prompt":"buying and selling NFTs. The landing page comprises seven sections: title ","completion":null}
+{"prompt":"content, notable drops, top collection, trending, creating and selling ","completion":null}
+{"prompt":"your NFTs, categories, and introductory video. The purpose of this feature ","completion":null}
+{"prompt":"is to allow the user to get to know the platform and provide a better ","completion":null}
+{"prompt":"introduction.","completion":null}
+{"prompt":"Any Ml or AI model has used ?","completion":" Yes, there are several ML and AI models "}
+{"prompt":"used. These include a sentiment model, a questions model, a keybert model, ","completion":null}
+{"prompt":"an action bert model, a sentence transformer model, an SBertSummarizer ","completion":null}
+{"prompt":"model, and an emotions model.","completion":null}
+{"prompt":"For which function AI are used ?","completion":" AI is used for sentiment analysis, "}
+{"prompt":"question extraction, keybert, action bert, and transcript fetching.","completion":null}
+{"prompt":"For which function ML are used?","completion":" ML is used for sentiment analysis, "}
+{"prompt":"question extraction, key term extraction, action item extraction, summary ","completion":null}
+{"prompt":"generation, emotion detection, sentence transformer model, and paraphrase ","completion":null}
+{"prompt":"summarizer model.","completion":null}
+{"prompt":"For which function AI or ML are used ?","completion":"AI and ML are used for sentiment "}
+{"prompt":"analysis, question extraction, key phrase extraction, action item ","completion":null}
+{"prompt":"extraction, summarization, emotion detection, and sentence paraphrasing.","completion":null}
+{"prompt":"History of documentation","completion":"The Document History section of the Technical "}
+{"prompt":"Specification Document (TSD) for Rapid Trance Version 1.0 outlines the ","completion":null}
+{"prompt":"date, author, and summary of changes for each version of the document.","completion":null}
+{"prompt":"What is bot ?","completion":" A bot is a software application that is programmed to "}
+{"prompt":"perform a specific task or set of tasks. Bots are used to automate a ","completion":null}
+{"prompt":"variety of tasks, such as responding to customer inquiries, managing ","completion":null}
+{"prompt":"customer service interactions, booking tickets, and more.","completion":null}
+{"prompt":"How bot is joining the meet?","completion":" After the meeting is created, the Rapid "}
+{"prompt":"Innovation bot joins the meet with captions on and fetches all transcripts ","completion":null}
+{"prompt":"(live captions) from the meet by using selenium python and also uses the ","completion":null}
+{"prompt":"beautiful soup python library to get accurate captions from the meet. ","completion":null}
+{"prompt":"After the meeting ends, the transcripts are saved to csv and json format. ","completion":null}
+{"prompt":"The csv is stored in an Amazon S3 bucket and the json of transcripts is ","completion":null}
+{"prompt":"saved in the database.","completion":null}
+{"prompt":"what is behind process of bot to join meet?","completion":" After creating an event, the "}
+{"prompt":"Rapid Innovation bot uses a crontab to hit a post API and create a task in ","completion":null}
+{"prompt":"a celery queue. The bot then joins the meeting with captions on and ","completion":null}
+{"prompt":"fetches all transcripts from the meet using the Selenium Python library ","completion":null}
+{"prompt":"and the Beautiful Soup Python library. After the meeting ends, the ","completion":null}
+{"prompt":"transcripts are saved in a csv file and a json format. The csv is stored ","completion":null}
+{"prompt":"in an Amazon S3 bucket and the json of transcripts is saved in the ","completion":null}
+{"prompt":"database.","completion":null}
